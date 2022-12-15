@@ -1,5 +1,5 @@
-'''# Creation of list
-# It is ordered , indexed , hetrogenous value ,duplicate value,mutable  
+##### Creation of list ######
+## :- It is ordered , indexed , hetrogenous value ,duplicate value,mutable  
 list1 = ["harsh","Mca1st" , "xyz@gmail.com"]
 print(list1[0])
 print(list1)
@@ -29,9 +29,9 @@ print(list1)
 
 # By Remove Method
 list1.remove(list1[0])
-print(list1)'''
+print(list1)
 
-'''for i in range (0,3):
+for i in range (0,3):
 
 	name = input("ENter the name of Student ")
 	cnt = input("ENter the cnt of Student ")
@@ -46,7 +46,7 @@ print(list1)'''
 
 print(stud1)
 print(stud2)
-print(stud3)'''
+print(stud3)
 
 list1 = [1,2,3,4,5]
 list1.append(34)
