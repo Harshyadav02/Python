@@ -1,12 +1,10 @@
-
 ## functions
-
-### def key word is used to create a function 
+#### def key word is used to create a function 
 
 ##### syntax :- def < functionName >(parmeters or argumnts):
 				## body
 
-### area of rantagle by function
+### area of rectangle by function
 
 def rect_area():
 	length = int(input("enter the length"))
